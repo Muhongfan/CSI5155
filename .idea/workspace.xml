@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7f97678-e2a9-448b-88c9-54df920aabdd" name="Default" comment="" />
+    <list default="true" id="d7f97678-e2a9-448b-88c9-54df920aabdd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PRO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Archive.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_dataset.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ensemble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ensemble_redF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_ toilet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_24-hour check-in.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Accessible-height bed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Accessible-height toilet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Air conditioning.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_BBQ grill.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Baby bath.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Baby monitor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Babysitter recommendations.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Bathtub with bath chair.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Bathtub.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Beach essentials.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Beachfront.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Bed linens.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Breakfast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Building staff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Buzzer_wireless intercom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Cable TV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Carbon monoxide detector.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Cat(s).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/amenities_Changing table.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_email.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_facebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_google.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_government_id.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_identity_manual.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_jumio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_kba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_manual_offline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_manual_online.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_none.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_offline_government_id.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_phone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_reviews.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_selfie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_sent_id.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_weibo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_work_email.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/host_ver_zhima_selfie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/id.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/price.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xg.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +110,9 @@
       <find>policy</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,11 +133,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="23" />
+    <option name="x" value="534" />
+    <option name="y" value="61" />
     <option name="width" value="1169" />
     <option name="height" value="710" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -230,7 +293,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" weight="0.39372823" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.39322034" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32881355" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32881355" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21118012" />
